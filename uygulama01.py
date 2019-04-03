@@ -52,3 +52,6 @@ if cevap5[0] == cevap.upper():
     puan = 5
 else:
     print("Cevap yanlış.")
+    #test sonu
+    print("notunuz:"+str(puan*20))
+    
