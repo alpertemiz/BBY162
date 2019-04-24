@@ -1,3 +1,4 @@
+__author__ = "Alper Temiz"
 #soru1
 metin = "Açık bilim, araştırma çıktılarına ve süreçlerine herkesin serbestçe erişmesini, bunların ortak kullanımını, dağıtımını ve üretimini kolaylaştıran bilim uygulamasıdır."
 print(metin[:20])     # Note: string indexing starts with 0
